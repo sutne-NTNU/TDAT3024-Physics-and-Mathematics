@@ -1,0 +1,7 @@
+# Folders
+
+# Filetypes
+*.m~
+
+# Specific files
+*.DS_Store
